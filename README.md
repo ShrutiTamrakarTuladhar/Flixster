@@ -19,7 +19,7 @@
 ### App Walkthough GIF
 
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="WalkThrough2.gif" width=250><br>
 
 ### Notes
 Android Studio chrashed a few time. I was not able to push changes into the existing repository via android studio, had to upload files. 
